@@ -1,6 +1,6 @@
-# covid19
+# covid-19 India Tracker
 
-A new Flutter application.
+A Flutter application to show the no of confirmed, active, recovered and deaths regarding Covid19 India and also provide necessary helpline numbers, prevention methods information about Covid19.
 
 ## Getting Started
 
