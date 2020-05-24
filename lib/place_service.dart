@@ -9,7 +9,7 @@ class PlaceService{
     return _service;
   }
 
-  //final String searchUrl="https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=,&radius=1000&type=hospital&key=AIzaSyAXHYdxxqFpMreoWU-hpZh-p8zzeNyhAoI";
+  //final String searchUrl="https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=,&radius=1000&type=hospital&key=<you_api_key>";
 
   Future<List<Place>> getNearbyPlaces(searchUrl) async{
 
